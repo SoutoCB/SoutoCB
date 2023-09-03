@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdff00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d85c6&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdff00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Bruno+Costa+Souto;I'm+18+years+old;I+from+Brasil,+RN;Information+Systems+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d85c6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Bruno+Costa+Souto;I'm+18+years+old;I+from+Brasil,+RN;Information+Systems+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-![SoutoCB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoutoCB&show_icons=true&theme=merko&rank_icon=github)
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SoutoCB&show_icons=true&theme=merko&layout=compact" />
+![SoutoCB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoutoCB&show_icons=true&theme=tokyonight&rank_icon=github)
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SoutoCB&show_icons=true&theme=tokyonight&layout=compact" />
  </div>
 
 
@@ -21,4 +21,4 @@
 </a>
 </div>&nbsp;&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cdff00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d85c6&height=120&section=footer"/>
