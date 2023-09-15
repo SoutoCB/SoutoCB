@@ -5,8 +5,8 @@
 
 
 
-![SoutoCB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoutoCB&show_icons=true&theme=tokyonight&rank_icon=github)
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SoutoCB&show_icons=true&theme=tokyonight&layout=compact" />
+![SoutoCB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoutoCB&show_icons=true&theme=light&rank_icon=github)
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SoutoCB&show_icons=true&theme=light&layout=compact" />
  </div>
 
 
