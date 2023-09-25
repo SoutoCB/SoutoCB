@@ -29,11 +29,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SoutoCB}/count.svg" /></p> 
-<br></div>
-
 
 
 
