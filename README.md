@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td>
-        <h3 align="left">Learning</h3>
+        <h3 align="center">Learning</h3>
         <p align="left">
           <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
           <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -28,9 +28,10 @@
         </p>
       </td>
       <td>
-        <h3 align="right">Tools</h3>
+        <h3 align="center">Tools</h3>
         <p align="right">
           <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+          <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
         </p>
       </td>
     </tr>
